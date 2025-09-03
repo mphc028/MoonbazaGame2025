@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc2acaac6c5d45c9b52f770dfd9e6bfb, type: 3}
+  m_Name: defaultStone
+  m_EditorClassIdentifier: 
+  width: 144
+  height: 80
+  maskType: 1
+  sprites:
+  - x: 0
+    y: 64
+    mask: 16
+  - x: 16
+    y: 64
+    mask: 18
+  - x: 32
+    y: 64
+    mask: 48
+  - x: 48
+    y: 64
+    mask: 24
+  - x: 64
+    y: 64
+    mask: 22
+  - x: 80
+    y: 64
+    mask: 19
+  - x: 96
+    y: 64
+    mask: 190
+  - x: 112
+    y: 64
+    mask: 159
+  - x: 0
+    y: 48
+    mask: 152
+  - x: 16
+    y: 48
+    mask: 144
+  - x: 32
+    y: 48
+    mask: 4
+  - x: 48
+    y: 48
+    mask: 1
+  - x: 64
+    y: 48
+    mask: 400
+  - x: 80
+    y: 48
+    mask: 208
+  - x: 96
+    y: 48
+    mask: 442
+  - x: 112
+    y: 48
+    mask: 250
+  - x: 0
+    y: 32
+    mask: 144
+  - x: 16
+    y: 32
+    mask: 24
+  - x: 32
+    y: 32
+    mask: 256
+  - x: 48
+    y: 32
+    mask: 64
+  - x: 64
+    y: 32
+    mask: 60
+  - x: 80
+    y: 32
+    mask: 57
+  - x: 96
+    y: 32
+    mask: 50
+  - x: 112
+    y: 32
+    mask: 184
+  - x: 128
+    y: 32
+    mask: 26
+  - x: 64
+    y: 16
+    mask: 312
+  - x: 80
+    y: 16
+    mask: 120
+  - x: 96
+    y: 16
+    mask: 154
+  - x: 128
+    y: 16
+    mask: 178
+  - x: 96
+    y: 0
+    mask: 176
+  - x: 112
+    y: 0
+    mask: 58
+  - x: 128
+    y: 0
+    mask: 152
